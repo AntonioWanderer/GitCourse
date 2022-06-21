@@ -1,1 +1,3 @@
-import matplotlib
+import math as m
+
+print(m.sqrt(5))
