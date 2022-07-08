@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 x = []
 y = []
 z = []
+t = []
 for i in range(10):
 	x.append(i)
 	y.append(i*i)
