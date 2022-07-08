@@ -11,3 +11,4 @@ plt.plot(x, y)
 plt.plot(x, z)
 plt.show()
 print("cubic commit")
+b = 0
